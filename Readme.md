@@ -1,4 +1,3 @@
-Olá, esse arquivo é para instruções gerais do projeto
-Esse projeto ajuda você a usar o Git
-
-Agora está com uma nova versão, com alterações realizadas em 12/04/2022.
+Instruções de como usar o git
+O arquivo "minhasNotas.md" contém as minhas anotações durante o video
+O arquivo "rafaellaBallerine.md" contém o texto publicado pela Rafaella
