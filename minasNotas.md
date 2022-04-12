@@ -1,9 +1,12 @@
 # Comandos básicos do git
 
-Comandos extraídos do [video 02](https://www.youtube.com/watch?v=UBAX-13g8OM) da Rafaella Ballerine sobre git e github.
+Comandos extraídos do [vídeo 02](https://www.youtube.com/watch?v=UBAX-13g8OM) da Rafaella Ballerine sobre git e github.
+
+O [vídeo 01](https://www.youtube.com/watch?v=DqTITcMq68k) também é muito interessante.
 
 ## A extensão .md
 .md = mark down - arquivo de marcação, instruções
+
 Readme.md = leia-me - instruções do projeto que não fazem parte do código
 
 ## Configurando um novo repositório
@@ -31,6 +34,8 @@ Os "commits" são as versões que subimos do nosso arquivo
 
 ## Outras infos
 É possível puxar um repositório git público para o seu repositório diretamente no git através da função "fork"
+
 E se ainda quiser sugerir alterações através de Contribute/Open pull request
+
 
 No nosso github, a aba "Pull requests" apresenta alterações sugeridas por terceiros aos seus projetos.
