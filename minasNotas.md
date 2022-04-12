@@ -41,4 +41,4 @@ No nosso github, a aba "Pull requests" apresenta alterações sugeridas por terc
 Comandos extraídos de [https://www.youtube.com/watch?v=kB5e-gTAl_s&t=60s](https://www.youtube.com/watch?v=UBAX-13g8OM)<br>
 
 * `git config --global user.email "email"` configura o email em uso
-* `git config --global user.name "nome" configura o nome do usuário
+* `git config --global user.name "nome"` configura o nome do usuário
