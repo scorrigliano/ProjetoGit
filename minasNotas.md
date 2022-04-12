@@ -42,4 +42,5 @@ Comandos extraídos de [https://www.youtube.com/watch?v=kB5e-gTAl_s&t=60s](https
 
 * `git config --global user.email "email"` configura o email em uso
 * `git config --global user.name "nome"` configura o nome do usuário
-* `git reflog` apresenta a lista de alterações
+* `git reflog` apresenta a lista de alterações com o ID necessário para 
+* `git reset --hard ID` baixa a versão indicada pelo ID
