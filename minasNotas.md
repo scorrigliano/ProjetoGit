@@ -36,3 +36,9 @@ E se ainda quiser sugerir alterações através de Contribute/Open pull request
 
 
 No nosso github, a aba "Pull requests" apresenta alterações sugeridas por terceiros aos seus projetos.
+
+## Outros comandos
+Comandos extraídos de [https://www.youtube.com/watch?v=kB5e-gTAl_s&t=60s](https://www.youtube.com/watch?v=UBAX-13g8OM)<br>
+
+* `git config --global user.email "email"` configura o email em uso
+* `git config --global user.name "nome" configura o nome do usuário
