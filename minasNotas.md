@@ -44,3 +44,4 @@ Comandos extraídos de [https://www.youtube.com/watch?v=kB5e-gTAl_s&t=60s](https
 * `git config --global user.name "nome"` configura o nome do usuário
 * `git reflog` apresenta a lista de alterações com o ID necessário para 
 * `git reset --hard ID` baixa a versão indicada pelo ID
+* `touch .githignore` cria um arquivo que deve ser editado com os nomes das pastas e aquivos que devem ser ignorados pelo controle de vesão
