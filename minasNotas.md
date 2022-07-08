@@ -45,3 +45,12 @@ Comandos extraídos de [https://www.youtube.com/watch?v=kB5e-gTAl_s&t=60s](https
 * `git reflog` apresenta a lista de alterações com o ID necessário para 
 * `git reset --hard ID` baixa a versão indicada pelo ID
 * `touch .githignore` cria um arquivo que deve ser editado com os nomes das pastas e aquivos que devem ser ignorados pelo controle de vesão
+
+[https://www.youtube.com/watch?v=6OokP-NE49k](https://www.youtube.com/watch?v=6OokP-NE49k)
+* `git commit -m "mensagem --amend"` corrige a mensagem do commit
+* `git log` mostra o log de commits
+* `git reset -- NOME_DO_ARQUIVO` tira do stage
+* `git reset --` desfaz a última alteração no stage
+* `git reset` desfaz o último commit (se o push não tiver sido feito ainda
+* `git revert HEAD~2` para reverter os 2 últimos commits
+
